@@ -1,0 +1,2 @@
+importFrom("stats", "coef", "lm")
+export("topten","predict10")

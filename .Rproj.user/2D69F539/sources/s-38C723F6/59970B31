@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516110887184.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "59970B31",
+    "lastKnownWriteTime" : 1516111853,
+    "last_content_update" : 1516111853336,
+    "path" : "~/Courses/Developing Data Products/topten/R/topten.R",
+    "project_path" : "R/topten.R",
+    "properties" : {
+        "cursorPosition" : "38,77",
+        "scrollLine" : "25",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

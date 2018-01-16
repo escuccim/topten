@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516112355205.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EED597AB",
+    "lastKnownWriteTime" : 1516112431,
+    "last_content_update" : 1516112431765,
+    "path" : "~/Courses/Developing Data Products/topten/man/topten.Rd",
+    "project_path" : "man/topten.Rd",
+    "properties" : {
+        "cursorPosition" : "11,72",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}

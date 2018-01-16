@@ -1,0 +1,11 @@
+Package: topten
+Type: Package
+Title: Building a prediction model from the top ten features
+Version: 0.1.0
+Date: 2018-01-16
+Author: Eric Scuccimarra
+Maintainer: Eric Scuccimarra <skooch@gmail.com>
+Description: Functions for creating and predicting models using the top ten predictive features.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true

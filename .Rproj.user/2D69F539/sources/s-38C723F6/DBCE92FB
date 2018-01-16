@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516111980148.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "DBCE92FB",
+    "lastKnownWriteTime" : 1516112443,
+    "last_content_update" : 1516112443770,
+    "path" : "~/Courses/Developing Data Products/topten/man/predict10.Rd",
+    "project_path" : "man/predict10.Rd",
+    "properties" : {
+        "cursorPosition" : "10,6",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
